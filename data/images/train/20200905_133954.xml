@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>20200905_133954.jpg</filename>
+	<path>/home/dilain/Projects/Embedded/Images/final/20200905_133954.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>59</ymin>
+			<xmax>315</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

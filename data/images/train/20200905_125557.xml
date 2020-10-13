@@ -1,0 +1,26 @@
+<annotation>
+	<folder>final</folder>
+	<filename>20200905_125557.jpg</filename>
+	<path>/home/dilain/Projects/Embedded/Images/final/20200905_125557.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>121</ymin>
+			<xmax>309</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

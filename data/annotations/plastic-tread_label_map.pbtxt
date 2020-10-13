@@ -1,0 +1,10 @@
+item {
+    name: "plastic",
+    id: 1,
+    display_name: "plastic"
+}
+item {
+    name: "thread",
+    id: 2,
+    display_name: "thread"
+}
